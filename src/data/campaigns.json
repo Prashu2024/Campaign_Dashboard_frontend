@@ -1,0 +1,69 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Help enter guided convers...",
+      "type": "SMS | Broadcast",
+      "edited": "Edited Jul 11, 2023",
+      "message": "Hey there, This is Soham from ...",
+      "recipientSource": "SaaS",
+      "recipients": 2,
+      "status": "Approval pending",
+      "createdOn": "02 Jan 2024",
+      "stats": {
+        "sent": 14017,
+        "delivered": 7572,
+        "response": 2158,
+        "conversation": 1590,
+        "validNumber": 67,
+        "invalidNumber": 500,
+        "optOut": 13,
+        "responseRate": 11.35
+      }
+    },
+    {
+      "id": 2,
+      "name": "Summer Sale Campaign",
+      "type": "SMS | Broadcast",
+      "edited": "Edited Jul 15, 2023",
+      "message": "Hello {csv.FIRSTNAME}, Thank...",
+      "recipientSource": "SaaS",
+      "recipients": 4,
+      "status": "Draft",
+      "createdOn": "02 Jan 2024"
+    },
+    {
+      "id": 3,
+      "name": "Product Launch",
+      "type": "SMS | Broadcast",
+      "edited": "Edited Jul 11, 2023",
+      "message": "Hey there, This is Soham from ...",
+      "recipientSource": "SaaS",
+      "recipients": 2,
+      "status": "Scheduled",
+      "createdOn": "02 Jan 2024"
+    },
+    {
+      "id": 4,
+      "name": "Customer Feedback",
+      "type": "SMS | Broadcast",
+      "edited": "Edited Jul 11, 2023",
+      "message": "Hello {csv.FIRSTNAME}, Thank...",
+      "recipientSource": "SaaS",
+      "recipients": 2,
+      "status": "Aborted",
+      "createdOn": "02 Jan 2024"
+    },
+    {
+      "id": 5,
+      "name": "Welcome Series",
+      "type": "SMS | Broadcast",
+      "edited": "Edited Jul 11, 2023",
+      "message": "Conversation flows",
+      "recipientSource": "SaaS",
+      "recipients": 2,
+      "status": "Ongoing",
+      "createdOn": "02 Jan 2024"
+    }
+  ]
+}
