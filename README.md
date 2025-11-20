@@ -116,15 +116,3 @@ Modify `src/data/campaignsData.js` to add more campaigns
 
 ### Connect to API
 Replace dummy data in `campaignsData.js` with API calls
-
-## Screenshots
-
-### Campaign List
-- Table view with search and filters
-- Status badges
-- Pagination controls
-
-### Activity Log
-- Detailed analytics
-- Interactive charts
-- WhatsApp preview
