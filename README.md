@@ -26,7 +26,7 @@ A modern, responsive campaign management dashboard built with React, Vite, and T
 1. **Clone or create the project**
 ```bash
 #npm create vite@latest campaign-dashboard -- --template react
-https://github.com/Prashu2024/Campaign_Dashboard_frontend
+git clone https://github.com/Prashu2024/Campaign_Dashboard_frontend.git
 cd Campaign_Dashboard_frontend
 ```
 
