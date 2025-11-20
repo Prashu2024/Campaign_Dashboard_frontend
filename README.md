@@ -25,16 +25,17 @@ A modern, responsive campaign management dashboard built with React, Vite, and T
 
 1. **Clone or create the project**
 ```bash
-npm create vite@latest campaign-dashboard -- --template react
-cd campaign-dashboard
+#npm create vite@latest campaign-dashboard -- --template react
+https://github.com/Prashu2024/Campaign_Dashboard_frontend
+cd Campaign_Dashboard_frontend
 ```
 
 2. **Install dependencies**
 ```bash
 npm install
-npm install lucide-react recharts
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+#npm install lucide-react recharts
+#npm install -D tailwindcss postcss autoprefixer
+#npx tailwindcss init -p
 ```
 
 3. **Copy all project files** from the folder structure above into your project
